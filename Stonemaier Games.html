@@ -20,15 +20,13 @@
   font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: 500;
-  top: 4%;
-  left: 65%;
   height: 40px;
   line-height: 20px;
   list-style: none;
   margin: 0;
   outline: none;
   padding: 10px 16px;
-  position: fixed;
+  position: absolute;
   text-align: center;
   text-decoration: none;
   transition: color 100ms;
@@ -42,12 +40,45 @@
 .button-1:focus {
   background-color: #664787;
 }
+    
+sidebar {
+  position: absolute;
+  font-family: Arial;
+  font-size: 12px; color: #402D54;
+  margin-top: 7%;
+  margin-left: 56%;
+  margin-right: 3%;
+}
+
+.howto {
+  font-size: 16px;
+}
 </style>
 
 <div class="title_text">
     <p class="title_text">7 Board Game Publishers and Their Top 5 Games</p>
-    <button class="button-1" role="button" onclick="location.href ='https://pfeiff26.github.io/d3.js-assignment/';">Back To Overview</button>
 </div>
+
+<div class="sidebar">
+ 
+  <p class="howto">How to read this chart:</p>
+  <p class="normal_text">The size of each box represents the number of a board game's players.</p>
+  <p class="normal_text">The color of each box represents a board game's average rating out of ten.</p>
+  <p class="howto">Color Legend (Rating):</p>
+  <img src="https://github.com/pfeiff26/d3.js-assignment/raw/main/legend complete.png" alt="Rating Legend">
+  <br>
+  <br>
+ <button class="button-1" role="button" onclick="location.href ='https://pfeiff26.github.io/d3.js-assignment/';">Back To Overview</button>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p class="normal_text">Source: <a href="https://boardgamegeek.com/blogpost/100267/bgg-top-2019-publishers">Board Game Geek</a></p>
+  <p class="normal_text">Note: Top 5 Games are calculated looking at the numbers of unique Board Game Geek users logging at least 1 play of a game in 2019. Ratings are mean user ratings out of 10.</p>
+</div>
+
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
 
