@@ -1,0 +1,25 @@
+{"children":[
+    {"name":"AEG","children":[
+        {"name":"Tiny Towns","group":"A","value":6949,"colname":"level3"},
+        {"name":"Love Letter","group":"A","value":6944,"colname":"level3"},
+        {"name":"Space Base","group":"C","value":5370,"colname":"level3"},
+        {"name":"Point Salad","group":"C","value":3468,"colname":"level3"},
+        {"name":"Mystic Vale","group":"C","value":2368,"colname":"level3"}],
+    "colname":"level2"},
+
+    {"name":"Blue Orange","children":[
+        {"name":"Kingdomino","group":"C","value":10175,"colname":"level3"},
+        {"name":"Photosynthesis","group":"A","value":4049,"colname":"level3"},
+        {"name":"Planet","group":"B","value":2575,"colname":"level3"},
+        {"name":"Blue Lagoon","group":"B","value":1951,"colname":"level3"},
+        {"name":"Kingdomino Duel","group":"B","value":840,"colname":"level3"}],
+    "colname":"level2"},
+
+    {"name":"CMON","children":[
+        {"name":"Gizmos","group":"B","value":5376,"colname":"level3"},
+        {"name":"Blood Rage","group":"A","value":4690,"colname":"level3"},
+        {"name":"Rising Son","group":"A","value":3324,"colname":"level3"},
+        {"name":"The Godfather","group":"D","value":1500,"colname":"level3"},
+        {"name":"Zombicide Black Plague","group":"D","value":1498,"colname":"level3"}],
+    "colname":"level2"}
+],"name":"Board Games"}
