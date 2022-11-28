@@ -1,0 +1,10 @@
+{"children":[
+    {"name":"Lookout Games","children":[
+        {"name":"Patchwork","group":"B","value":8657,"rating":7.68,"colname":"level3"},
+        {"name":"Barenpark","group":"A","value":4680,"rating":7.36,"colname":"level3"},
+        {"name":"Isle of Skye","group":"A","value":4504,"rating":7.45,"colname":"level3"},
+        {"name":"Agricola","group":"D","value":3906,"rating":7.97,"colname":"level3"},
+        {"name":"Caverna","group":"D","value":3390,"rating":8.04,"colname":"level3"}],
+    "colname":"level2"}
+
+],"name":"Board Games"}
