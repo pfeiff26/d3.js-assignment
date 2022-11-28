@@ -81,6 +81,7 @@ d3.json("https://raw.githubusercontent.com/pfeiff26/d3.js-assignment/main/Brands
     tooltip
         .html("Name: " + d.data.name + "<br>" + "Number of Players: " + d.value + "<br>" + "Average Rating: " + d.data.rating)
         .style("opacity", 1)
+        .style("cursor","pointer")
 
   }
   var mousemove = function(d) {
