@@ -159,15 +159,7 @@ d3.json("https://raw.githubusercontent.com/pfeiff26/d3.js-assignment/main/Brands
       .attr("font-family","Arial")
       .attr("fill",  function(d){ return color(d.data.name)} )
 
-  // Add title for the 3 groups
-  svg
-    .append("text")
-      .attr("x", 0)
-      .attr("y", 14)    // +20 to adjust position (lower)
-      .text("Board Game Brands and Their Top Products")
-      .attr("font-size", "32px")
-      .attr("font-family","Arial")
-      .attr("fill",  "#402D54" )
+  // Add title for the 3 grous
 
 })
 </script>
