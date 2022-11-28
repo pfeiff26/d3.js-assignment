@@ -1,34 +1,34 @@
 {"children":[
     {"name":"AEG","children":[
-        {"name":"Tiny Towns","group":"A","value":6949,"colname":"level3"},
-        {"name":"Love Letter","group":"A","value":6944,"colname":"level3"},
-        {"name":"Space Base","group":"C","value":5370,"colname":"level3"},
-        {"name":"Point Salad","group":"C","value":3468,"colname":"level3"},
-        {"name":"Mystic Vale","group":"C","value":2368,"colname":"level3"}],
+        {"name":"Tiny Towns","group":"A","value":6949,"rating":7.43,"colname":"level3"},
+        {"name":"Love Letter","group":"A","value":6944,"rating":7.24,"colname":"level3"},
+        {"name":"Space Base","group":"C","value":5370,"rating":7.52,"colname":"level3"},
+        {"name":"Point Salad","group":"C","value":3468,"rating":7.35,"colname":"level3"},
+        {"name":"Mystic Vale","group":"C","value":2368,"rating":7.30,"colname":"level3"}],
     "colname":"level2"},
 
     {"name":"Blue Orange","children":[
-        {"name":"Kingdomino","group":"C","value":10175,"colname":"level3"},
-        {"name":"Photosynthesis","group":"A","value":4049,"colname":"level3"},
-        {"name":"Planet","group":"B","value":2575,"colname":"level3"},
-        {"name":"Blue Lagoon","group":"B","value":1951,"colname":"level3"},
-        {"name":"Kingdomino Duel","group":"B","value":840,"colname":"level3"}],
+        {"name":"Kingdomino","group":"C","value":10175,"rating":7.36,"colname":"level3"},
+        {"name":"Photosynthesis","group":"A","value":4049,"rating":7.19,"colname":"level3"},
+        {"name":"Planet","group":"B","value":2575,"rating":6.80,"colname":"level3"},
+        {"name":"Blue Lagoon","group":"B","value":1951,"rating":7.24,"colname":"level3"},
+        {"name":"Kingdomino Duel","group":"B","value":840,"rating":7.10,"colname":"level3"}],
     "colname":"level2"},
 
     {"name":"CMON","children":[
-        {"name":"Gizmos","group":"B","value":5376,"colname":"level3"},
-        {"name":"Blood Rage","group":"A","value":4690,"colname":"level3"},
-        {"name":"Rising Son","group":"A","value":3324,"colname":"level3"},
-        {"name":"The Godfather","group":"D","value":1500,"colname":"level3"},
-        {"name":"Zombicide Black Plague","group":"D","value":1498,"colname":"level3"}],
+        {"name":"Gizmos","group":"B","value":5376,"rating":7.50,"colname":"level3"},
+        {"name":"Blood Rage","group":"A","value":4690,"rating":8.01,"colname":"level3"},
+        {"name":"Rising Son","group":"A","value":3324,"rating":7.93,"colname":"level3"},
+        {"name":"The Godfather","group":"D","value":1500,"rating":7.59,"colname":"level3"},
+        {"name":"Zombicide Black Plague","group":"D","value":1498,"rating":7.71,"colname":"level3"}],
     "colname":"level2"},
     
     {"name":"Hans im Gluck","children":[
-        {"name":"Carcassonne","group":"B","value":9713,"colname":"level3"},
-        {"name":"Stone Age","group":"A","value":5011,"colname":"level3"},
-        {"name":"Marco Polo","group":"A","value":4016,"colname":"level3"},
-        {"name":"Hadara","group":"D","value":2965,"colname":"level3"},
-        {"name":"Citadels","group":"D","value":2546,"colname":"level3"}],
+        {"name":"Carcassonne","group":"B","value":9713,"rating":7.42,"colname":"level3"},
+        {"name":"Stone Age","group":"A","value":5011,"rating":7.59,"colname":"level3"},
+        {"name":"Marco Polo","group":"A","value":4016,"rating":7.92,"colname":"level3"},
+        {"name":"Hadara","group":"D","value":2965,"rating":7.52,"colname":"level3"},
+        {"name":"Citadels","group":"D","value":2546,"rating":7.09,"colname":"level3"}],
     "colname":"level2"}
     
 ],"name":"Board Games"}
