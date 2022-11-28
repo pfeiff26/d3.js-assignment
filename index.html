@@ -7,10 +7,39 @@
 
 <style>
     .title_text {font-family: Arial; width: 100%; font-size: 28px; color: #402D54; margin-bottom: -1.2%; margin-left: 0.2%;}
+    
+     .sidebar {
+  position: absolute;
+  font-family: Arial;
+  font-size: 12px; color: #402D54;
+  margin-top: 7%;
+  margin-left: 56%;
+  margin-right: 3%;
+}
+
+.howto {
+  font-size: 16px;
+}
 </style>
 <div class="title_text">
     <p class="title_text">7 Board Game Publishers and Their Top 5 Games</p>
 </div>
+
+<div class="sidebar">
+ 
+  <p class="howto">How to read this chart:</p>
+  <p class="normal_text">The size of each box represents the number of people playing a publisher's top 5 games.</p>
+  <p class="normal_text">The color of each box represents the average rating out of ten for a publisher's top 5 games.</p>
+  <p class="howto">Color Legend (Rating):</p>
+  <img src="https://github.com/pfeiff26/d3.js-assignment/raw/main/legend21.png" alt="Rating Legend">
+  <br>
+  <br>
+  <br>
+  <br>
+  <p class="normal_text">Source: <a href="https://boardgamegeek.com/blogpost/100267/bgg-top-2019-publishers">Board Game Geek</a></p>
+  <p class="normal_text">Note: Top 5 Games are calculated looking at the numbers of unique Board Game Geek users logging at least 1 play of a game in 2019. Ratings are mean user ratings out of 10.</p>
+</div>
+
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
 
