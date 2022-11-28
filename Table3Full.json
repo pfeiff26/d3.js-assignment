@@ -29,7 +29,7 @@
         {"name":"Marco Polo","group":"A","value":4016,"rating":7.92,"colname":"level3"},
         {"name":"Hadara","group":"D","value":2965,"rating":7.52,"colname":"level3"},
         {"name":"Citadels","group":"D","value":2546,"rating":7.09,"colname":"level3"}],
-    "colname":"level2"}
+    "colname":"level2"},
 
     {"name":"Kosmos","children":[
         {"name":"Catan","group":"B","value":6108,"rating":7.17,"colname":"level3"},
@@ -37,7 +37,7 @@
         {"name":"Imhotep","group":"A","value":3005,"rating":7.22,"colname":"level3"},
         {"name":"Targi","group":"D","value":2876,"rating":7.62,"colname":"level3"},
         {"name":"5-Minute Dungeon","group":"D","value":1566,"rating":7.13,"colname":"level3"}],
-    "colname":"level2"}
+    "colname":"level2"},
 
     {"name":"Lookout Games","children":[
         {"name":"Patchwork","group":"B","value":8657,"rating":7.68,"colname":"level3"},
@@ -45,7 +45,7 @@
         {"name":"Isle of Skye","group":"A","value":4504,"rating":7.45,"colname":"level3"},
         {"name":"Agricola","group":"D","value":3906,"rating":7.97,"colname":"level3"},
         {"name":"Caverna","group":"D","value":3390,"rating":8.04,"colname":"level3"}],
-    "colname":"level2"}
+    "colname":"level2"},
 
     {"name":"Stonemaier Games","children":[
         {"name":"Wingspan","group":"B","value":19623,"rating":8.11,"colname":"level3"},
