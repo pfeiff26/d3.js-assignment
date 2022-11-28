@@ -1,5 +1,5 @@
 {"children":[
-    {"name":"Click to Select a Board Game Manufacturer","children":[
+    {"name":"Click to Select a Board Game Publisher","children":[
         {"name":"AEG","group":"A","value":25099,"rating":7.37,"colname":"level3"},
         {"name":"Blue Orange","group":"A","value":19590,"rating":7.14,"colname":"level3"},
         {"name":"CMON","group":"C","value":16388,"rating":7.75,"colname":"level3"},
