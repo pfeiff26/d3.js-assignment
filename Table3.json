@@ -21,14 +21,6 @@
         {"name":"Rising Son","group":"A","value":3324,"rating":7.93,"colname":"level3"},
         {"name":"The Godfather","group":"D","value":1500,"rating":7.59,"colname":"level3"},
         {"name":"Zombicide Black Plague","group":"D","value":1498,"rating":7.71,"colname":"level3"}],
-    "colname":"level2"},
-    
-    {"name":"Hans im Gluck","children":[
-        {"name":"Carcassonne","group":"B","value":9713,"rating":7.42,"colname":"level3"},
-        {"name":"Stone Age","group":"A","value":5011,"rating":7.59,"colname":"level3"},
-        {"name":"Marco Polo","group":"A","value":4016,"rating":7.92,"colname":"level3"},
-        {"name":"Hadara","group":"D","value":2965,"rating":7.52,"colname":"level3"},
-        {"name":"Citadels","group":"D","value":2546,"rating":7.09,"colname":"level3"}],
     "colname":"level2"}
     
 ],"name":"Board Games"}
