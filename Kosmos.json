@@ -1,0 +1,9 @@
+{"children":[
+{"name":"Kosmos","children":[
+        {"name":"Catan","group":"B","value":6108,"rating":7.17,"colname":"level3"},
+        {"name":"Lost Cities","group":"A","value":4254,"rating":7.17,"colname":"level3"},
+        {"name":"Imhotep","group":"A","value":3005,"rating":7.22,"colname":"level3"},
+        {"name":"Targi","group":"D","value":2876,"rating":7.62,"colname":"level3"},
+        {"name":"5-Minute Dungeon","group":"D","value":1566,"rating":7.13,"colname":"level3"}],
+    "colname":"level2"}
+],"name":"Board Games"}
