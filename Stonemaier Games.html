@@ -69,7 +69,7 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")");
 
 // read json data
-d3.json("https://raw.githubusercontent.com/pfeiff26/d3.js-assignment/main/AEG.json", function(data) {
+d3.json("https://raw.githubusercontent.com/pfeiff26/d3.js-assignment/main/Stonemaier Games.json", function(data) {
 
   // Give the data to this cluster layout:
   var root = d3.hierarchy(data).sum(function(d){ return d.value}) // Here the size of each leave is given in the 'value' field in input data
