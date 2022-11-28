@@ -1,0 +1,9 @@
+{"children":[
+      {"name":"Blue Orange","children":[
+          {"name":"Kingdomino","group":"C","value":10175,"rating":7.36,"colname":"level3"},
+          {"name":"Photosynthesis","group":"A","value":4049,"rating":7.19,"colname":"level3"},
+          {"name":"Planet","group":"B","value":2575,"rating":6.80,"colname":"level3"},
+          {"name":"Blue Lagoon","group":"B","value":1951,"rating":7.24,"colname":"level3"},
+          {"name":"Kingdomino Duel","group":"B","value":840,"rating":7.10,"colname":"level3"}],
+      "colname":"level2"},
+ ],"name":"Board Games"}
